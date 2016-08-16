@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Scroll View</string>
+    <string name="stringname">ht</string>
+    <string name="tpe">Taipei City</string>
+    <string name="paris">Paris</string>
+    <string name="london">London</string>
+    <string name="new_york_city">New York City</string>
+    <string name="los_angeles">Los Angeles</string>
+    <string name="san_francisco">San Francisco</string>
+</resources>
